@@ -1,4 +1,4 @@
-# This Project is a tutorial which I played around with to create a basic react-three-fiber environment with iteractive objects
+## This Project is a tutorial which I played around with to create a basic react-three-fiber environment with iteractive objects
 
 
 
